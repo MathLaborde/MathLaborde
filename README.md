@@ -2,7 +2,7 @@
 
 *`Desenvolvedor Back-End`*
 
-Me chamo Matheus Laborde, tenho 23 anos e sou de São Paulo. Atualmente estou cursando Sistemas de Informação na FIAP. Estou iniciando minha jornada como desenvolvedor back-end e aprendendo a construir aplicações eficientes e escaláveis. Atualmente, estou estudando Python e Java, além de ter experiência em HTML, CSS e Javascript, sigo buscando aprimorar minhas habilidades em API REST, bancos de dados (Oracle e MySQL) e boas práticas de desenvolvimento.
+ Olá, me chamo Matheus Laborde, tenho 23 anos e moro em São Paulo. Atualmente estou cursando Sistemas de Informação na FIAP. Estou iniciando minha jornada como desenvolvedor back-end e aprendendo a construir aplicações eficientes e escaláveis. Atualmente, estou desenvolvendo projetos em Java e possuo conhecimentos técnicos em Python, além de ter experiência em HTML, CSS e Javascript. No momento estou buscando aprimorar minhas habilidades em API REST, bancos de dados (Oracle e MySQL) e boas práticas de desenvolvimento.
 
 Gosto de desafios e estou sempre disposto a aprender. Se quiser trocar ideias ou colaborar em projetos, ficarei feliz em conectar!
 
